@@ -31,4 +31,4 @@ Screen B - Patient know how Screen >
 
 Screen C - Book an ACLS Ambulance > 
 	1. SOS Button > Calls specific number > Asks to make calls to take permission
-	2. 
+	
