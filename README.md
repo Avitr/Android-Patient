@@ -9,6 +9,8 @@ Asks for Language >
 Displays English in next line > displays Tick box next to it > If the user ticks then App language is set to English> Displays Screen A.
 Displays Hindi in next line > displays tick box next to it > If the user ticks then App language is set to Hindi> Displays Screen A.
 
+
+
 Screen A-Login Screen appears > 
 	1. SOS Button > Calls specific number > Asks to make calls to take permission
 	2. Phone Number Text Box > Enters Ten digit Mobile Numbers > Asks to send and read Sms to take permission > Sends an sms > recieves an OTP through an sms
